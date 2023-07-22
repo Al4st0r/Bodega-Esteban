@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'db_bodega_estaban',
+    'database_user' => 'root',
+    'database_password' => '',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'ZG1SwCy4c1OSUUrUNCt9YiritM0muSHgG335HWWuid4L4dCMZnFPbjBBYwg5oa3u',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2023-07-20',
+    'locale' => 'es-ES',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'W1LSM0JgfpJTAEBE6IPc0HvvzdKACdF7fyN6OOPRxDZPnhn2c5BMxJnNZqtBdgaX',
+    'cookie_iv' => 'CCtZW3qFsyDbQ4eMD4eIAIB4u7UpHw8R',
+    'new_cookie_key' => 'def00000d96173a80bc180ed677b42a828a3780ff8d9561b7c628e52234ff77bb4a5b6f486be421438088679bbd5e0257696e949980804870a2329441d83fcdf6c881424',
+  ),
+);
